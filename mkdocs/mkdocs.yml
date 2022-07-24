@@ -1,0 +1,6 @@
+site_name: SQL
+nav:
+  - Home: index.md
+  - Article: article.md
+theme:
+  name: material
