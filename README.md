@@ -1,4 +1,4 @@
-# freecodecamp-RDBMS Course
+# ffreeCodecamp Relational Database sql Course solutions
 
 1. Build a Celestial Bodies Database
 
