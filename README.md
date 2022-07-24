@@ -10,4 +10,4 @@
    - bingo.sh
    - fortune.sh
 
-'five.sh' is the collaboration of all four programs
+`five.sh` is the collaboration of all four programs
